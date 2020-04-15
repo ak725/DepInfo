@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Department Info</string>
+    <string name="department_name">Department Name</string>
+    <string name="head_of_the_department">Head Of the Department</string>
+    <string name="contact_details">Contact Details</string>
+
+
+    <string-array name="department_name" tools:ignore="InconsistentArrays">
+        <item>Computer Science And Engineering</item>
+        <item>Electrical And Electronics Engineering</item>
+        <item>Electronics and Communication Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Information Technology</item>
+        <item>Fashion Technology</item>
+    </string-array>
+
+    <string-array name="department_Hod_list" tools:ignore="InconsistentArrays">
+        <item>Dr.B.Sathiyabhama, M.Tech., Ph.D</item>
+        <item>Dr.S.Padma, M.E., Ph.D.</item>
+        <item>Dr.J.Akilandeswari M.E., Ph.D.</item>
+        <item>Dr.D.Raja, Ph.D</item>
+        <item>Dr.R.S.Sabeenian</item>
+        <item>Dr.R.Malathy,Ph.D</item>
+    </string-array>
+
+    <string-array name="department_contact_number" tools:ignore="InconsistentArrays">
+        <item>+91 – 427 – 2443545</item>
+        <item>+91 – 427 – 4099739</item>
+        <item>+91 – 427 – 4099999</item>
+        <item>+91 – 427 – 4099999</item>
+        <item>+91 – 427 – 2443545</item>
+        <item>+91 – 427 – 4099766</item>
+    </string-array>
+
+</resources>
